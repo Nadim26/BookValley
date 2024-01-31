@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+    .categories {
+      margin-top: 20px; /* Add a top margin to separate it from Secondsection */
+    }
+  }
